@@ -35,7 +35,7 @@ btn.addEventListener("click", function() {
                 arr.push(transcript);
             }
         });
-    } else if (isListening === true) {
+    } else {
         recognition.stop();
         recognition.onend = () => {};
         isListening = false;
