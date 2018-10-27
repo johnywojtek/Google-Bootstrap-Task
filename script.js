@@ -4,7 +4,7 @@ window.SpeechRecognition =
 const recognition = new SpeechRecognition();
 
 recognition.interimResults = true;
-// DOM
+
 const input = document.querySelector("#search-input");
 const btn = document.querySelector("#btn-input");
 
