@@ -1,3 +1,3 @@
 # Google-bootstrap
 interview task
-Live: https://johnywojtek.github.io/Google-bootstrap/
+Live: https://johnywojtek.github.io/Google-Bootstrap-Task/
